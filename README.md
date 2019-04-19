@@ -1,2 +1,7 @@
 # resume
-This is an assignment in the learning of front-end.
+- Name:JannieX
+- Education Background:Undergraduate
+- School:Communication University of China
+- Experience:Waiting for update
+**Thank you for reading it.**
+ 
